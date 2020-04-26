@@ -1,5 +1,5 @@
 # Solar System Simulation
-This project is an assignment of "[Introduction to Game Development](coursera.org/learn/game-development/)" course by [Coursera](https://www.coursera.org/).
+> This project is an assignment of "[Introduction to Game Development](coursera.org/learn/game-development/)" course by [Coursera](https://www.coursera.org/).
 
 - It is very simple Unity3D project of solar system simulation. by clicking on any  Planet the camera change it's focuse on that planet.
 
