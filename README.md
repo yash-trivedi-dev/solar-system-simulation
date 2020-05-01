@@ -7,6 +7,10 @@
     1. Main Camera (Perspective camera) which shows the entire solar system.
     2. Minimap (Orthographic camera) which shows the top view of the solar system.
 
+## Video
+
+[![Solar System Simulation](./screenshots/1.jpg)](https://www.youtube.com/watch?v=NQUlT_PD37I "Solar System Simulation - Click to Watch!")
+
 ### Screenshots
 
 ![screenshot 1](./screenshots/1.jpg)
